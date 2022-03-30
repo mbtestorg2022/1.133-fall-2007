@@ -5,6 +5,7 @@ description: 'Supplementary lecture notes on the factors that affect the discoun
   engineering project by Carl D. Martland. '
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fall-2007/923cee27430578fac8a9dac9b56ef8ad_proj_eval.pdf
 file_type: application/pdf
+parent_uid: 850092ad-8107-bd54-b1ab-50571d058dbf
 resourcetype: Document
 title: NPV Analysis for a Major CEE Project
 uid: 923cee27-4305-78fa-c8a9-dac9b56ef8ad

@@ -4,6 +4,7 @@ description: Lecture presentation on getting work from a large firm perspective 
   guest lecturer Willie Vicens of the consulting firm CDM.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fall-2007/049bacd59b15a9fbeee71f2e9359ae13_lec_04_wv.pdf
 file_type: application/pdf
+parent_uid: 050c740b-24e0-9d72-fac3-d18eafb8f4d6
 resourcetype: Document
 title: "Getting Work \u2013 A Large Firm Perspective"
 uid: 049bacd5-9b15-a9fb-eee7-1f2e9359ae13
