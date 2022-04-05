@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 687d8732-3238-b3cf-c542-f22bc99a2a6d
 ---
@@ -29,7 +31,7 @@ KEY DATES
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 1
 {{< tdclose >}}
 {{< tdopen >}}
@@ -62,7 +64,7 @@ Assignment 1a due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 2
 {{< tdclose >}}
 {{< tdopen >}}
@@ -110,7 +112,7 @@ Assignment 1b due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 3
 {{< tdclose >}}
 {{< tdopen >}}
@@ -164,7 +166,7 @@ Assignment 3a due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 4
 {{< tdclose >}}
 {{< tdopen >}}
@@ -197,7 +199,7 @@ Assignment 3b due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 5
 {{< tdclose >}}
 {{< tdopen >}}
@@ -245,7 +247,7 @@ Assignment 4a due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 6
 {{< tdclose >}}
 {{< tdopen >}}
@@ -278,7 +280,7 @@ G. Dasgupta (Columbia University)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 7
 {{< tdclose >}}
 {{< tdopen >}}
@@ -326,7 +328,7 @@ Assignment 3c due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 8
 {{< tdclose >}}
 {{< tdopen >}}
@@ -374,7 +376,7 @@ J. Travers (Parsons)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 9
 {{< tdclose >}}
 {{< tdopen >}}
@@ -422,7 +424,7 @@ Assignment 4b due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 10
 {{< tdclose >}}
 {{< tdopen >}}
@@ -470,7 +472,7 @@ E. Nelson
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 11
 {{< tdclose >}}
 {{< tdopen >}}
@@ -503,7 +505,7 @@ D. Peraza (Exponent)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 12
 {{< tdclose >}}
 {{< tdopen >}}

@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 050c740b-24e0-9d72-fac3-d18eafb8f4d6
 ---
@@ -26,7 +29,7 @@ SPEAKERS
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 1
 {{< tdclose >}}
 {{< tdopen >}}
@@ -53,7 +56,7 @@ D. Rosencrans
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 2
 {{< tdclose >}}
 {{< tdopen >}}
@@ -92,7 +95,7 @@ W. Sung (MWRA)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 3
 {{< tdclose >}}
 {{< tdopen >}}
@@ -131,7 +134,7 @@ Video: _Cadillac Desert: Mulholland's Dream (Water and the Transformation of Nat
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 4
 {{< tdclose >}}
 {{< tdopen >}}
@@ -158,7 +161,7 @@ J. P. Chakar (Buro Happold)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 5
 {{< tdclose >}}
 {{< tdopen >}}
@@ -197,7 +200,7 @@ R. McNamara (McNamara/Salvia)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 6
 {{< tdclose >}}
 {{< tdopen >}}
@@ -224,7 +227,7 @@ G. Dasgupta (Columbia University)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 7
 {{< tdclose >}}
 {{< tdopen >}}
@@ -263,7 +266,7 @@ M. Van Horne (RMC Water and Environmental)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 8
 {{< tdclose >}}
 {{< tdopen >}}
@@ -302,7 +305,7 @@ J. Travers (Parsons)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 9
 {{< tdclose >}}
 {{< tdopen >}}
@@ -341,7 +344,7 @@ W. Henry
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 10
 {{< tdclose >}}
 {{< tdopen >}}
@@ -380,7 +383,7 @@ E. Nelson
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 11
 {{< tdclose >}}
 {{< tdopen >}}
@@ -407,7 +410,7 @@ D. Peraza (Exponent)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 12
 {{< tdclose >}}
 {{< tdopen >}}
